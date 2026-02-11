@@ -1,8 +1,9 @@
-# Tentang Trivgo
+# Trivgo
 
-trivgo adalah perusahaan yang bergerak pada pelayanan perjalanan triv anda.
-menemani anda menelusuri indahnya surga dunia yang memanjakan mata anda.
-anda tidak hanya di buat terkesan dengan perjalanan anda namun anda mengerti
-arti dari apa yang ada lihat yang anda dengar.
+Mitra perjalanan terpercaya yang mengintegrasikan kemudahan teknologi dengan sentuhan layanan manusiawi. Menghadirkan solusi lengkap untuk setiap kebutuhan perjalanan Anda.
 
+## About Us
 
+### Trivgoo OTA
+
+Kemudahan digital di ujung jari. Platform online untuk merencanakan tiket pesawat, hotel, sewa kendaraan, hingga aktivitas wisata dengan pengalaman booking yang nyaman dan kompetitif.
