@@ -81,4 +81,4 @@ trivgoo@gmail.com
 
 ### Situs
 
-<a href="https://trivgoo.com">trivgoo.com</a>
+<a href="https://trivgoo.com" target="_blank">trivgoo.com</a>
