@@ -1,0 +1,12 @@
+const express = require("express");
+const router = express.Router();
+const clientController = require("../controllers/clients.controller");
+const { verifyToken } = require("../middlewares/auth.middleware");
+const upload = require("../middlewares/docClients.middleware");
+router.use(verifyToken);
+router.post("/client", upload.single("doc"), clientController.addClient);
+router.get("/client", clientController.getClients);
+router.get("/client/:id", clientController.getClientsById);
+router.put("/client/:id", upload.single("doc"), clientController.updateClient);
+router.delete("/client/:id", clientController.deleteClient);
+module.exports = router;

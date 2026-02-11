@@ -1,0 +1,38 @@
+* {
+  font-family: "Inter", sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.social-icon {
+  transition: 0.3s ease;
+}
+
+.social-icon:hover {
+  transform: translateY(-3px);
+  color: white !important;
+}
+.login-bg {
+  position: relative;
+  min-height: 100vh;
+  background-image: url("/src/assets/slide.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+/* Overlay gelap */
+.login-bg::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.55); /* tingkat kegelapan */
+  z-index: 1;
+}
+
+/* Supaya isi di atas overlay */
+.login-bg > * {
+  position: relative;
+  z-index: 2;
+}

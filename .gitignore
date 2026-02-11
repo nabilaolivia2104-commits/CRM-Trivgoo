@@ -1,0 +1,21 @@
+# Node modules di backend
+/backend/node_modules/
+
+# Node modules di frontend
+/frontend/node_modules/
+
+# Optional: file log
+*.log
+
+# Optional: environment files
+.env
+.env.local
+.env.*.local
+
+# Optional: build folder frontend (jika menggunakan React/Vite)
+ /frontend/dist/
+ /frontend/build/
+
+# Optional: file OS
+.DS_Store
+Thumbs.db
