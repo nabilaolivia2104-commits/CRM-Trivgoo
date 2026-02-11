@@ -47,3 +47,17 @@ Sewa kendaraan dan layanan transportasi untuk segala kebutuhan perjalanan
 ### Partnership
 
 Membangun kemitraan jangka panjang yang saling menguntungkan dengan nilai tambah inovatif
+
+# Visi & Misi
+
+### Vision
+
+Menjadi platform pintar yang menghubungkan setiap traveler dengan pengalaman perjalanan personal, mulus, bermakna, memberdayakan mereka untuk mengeksplor dunia dengan cara yang lebih cerdas dan berkelanjutan.
+
+### Mission
+
+Menyediakan platform terintegrasi untuk semua kebutuhan travel dan event
+Menghadirkan solusi berbasis AI untuk efisiensi dan personalisasi
+Membangun kemitraan jangka panjang yang saling menguntungkan
+Memberikan nilai tambah melalui layanan yang kreatif dan inovatif
+Memastikan kepuasan pelanggan melalui kualitas layanan terbaik
