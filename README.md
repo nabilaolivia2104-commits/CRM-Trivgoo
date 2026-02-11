@@ -4,7 +4,7 @@ Your AI Travel Platform
 
 Mitra perjalanan terpercaya yang mengintegrasikan kemudahan teknologi dengan sentuhan layanan manusiawi. Menghadirkan solusi lengkap untuk setiap kebutuhan perjalanan Anda.
 
-## About Us
+# About Us
 
 Satu Visi, Tiga Pilar Perjalanan yang Melayani Setiap Langkah Anda
 
@@ -20,7 +20,7 @@ Layanan profesional untuk Meeting, Incentive, Convention, Exhibition. Tim spesia
 
 Biro perjalanan berizin resmi untuk ibadah yang khusyuk, nyaman, dan aman. Tim pembimbing berpengalaman dan fasilitas akomodasi dekat tempat suci untuk setiap langkah spiritual jamaah.
 
-## Our Services
+# Our Services
 
 Layanan Terintegrasi untuk Semua Kebutuhan Perjalanan Anda
 
