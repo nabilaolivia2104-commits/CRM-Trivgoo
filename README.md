@@ -61,3 +61,24 @@ Menghadirkan solusi berbasis AI untuk efisiensi dan personalisasi
 Membangun kemitraan jangka panjang yang saling menguntungkan
 Memberikan nilai tambah melalui layanan yang kreatif dan inovatif
 Memastikan kepuasan pelanggan melalui kualitas layanan terbaik
+
+# Contact Us
+
+Hubungi Kami untuk Konsultasi dan Informasi Lebih Lanjut
+
+### Address
+
+Jl Kepaon Indah B.20, Pemogan, Denpasar Selatan,
+Kota Denpasar, Bali, Indonesia
+
+### Phone
+
++62 821 4444 3784
+
+### Email
+
+trivgoo@gmail.com
+
+### Situs
+
+trivgoo.com
