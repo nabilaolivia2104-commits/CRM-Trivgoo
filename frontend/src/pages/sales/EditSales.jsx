@@ -101,7 +101,7 @@ export default function EditSales() {
         <div className="mb-3">
           <label className="text-muted small">Team ID</label>
           <input
-            type="number"
+            type="text"
             name="team_id"
             className="form-control"
             value={form.team_id}
