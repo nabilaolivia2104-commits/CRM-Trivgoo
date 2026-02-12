@@ -1,9 +1,11 @@
 import axios from "axios";
 
+// Ambil baseURL dari environment variable VITE_API_URL
 const api = axios.create({
-  baseURL: "http://192.168.1.112:5000/api",
+  baseURL: import.meta.env.VITE_API_URL, // <-- gunakan VITE_API_URL
 });
 
+// Interceptor untuk menambahkan token JWT
 api.interceptors.request.use((config) => {
   const token = localStorage.getItem("token");
   if (token) {
